@@ -1,5 +1,7 @@
 # Technical Documentation
 
+Documentation for the technical documentation tool is published at [https://tdt-documentation.london.cloudapps.digital](https://tdt-documentation.london.cloudapps.digital) [external link].
+
 ## Getting started
 
 To preview or build the website, we need to use the terminal.
