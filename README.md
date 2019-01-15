@@ -1,12 +1,13 @@
 # Technical Documentation
 
-Documentation for the technical documentation tool is published at [https://tdt-documentation.london.cloudapps.digital](https://tdt-documentation.london.cloudapps.digital) [external link].
-
 ## Getting started
+
+You can [read the documentation][tdt-documentation] (external link) for the
+GDS technical documentation tool.
 
 To preview or build the website, we need to use the terminal.
 
-Install Ruby with Rubygems, perferably with a [Ruby version manager][rvm],
+Install Ruby with Rubygems, preferably with a [Ruby version manager][rvm],
 and the [Bundler gem][bundler].
 
 In the application folder type the following to install the required gems:
@@ -89,3 +90,4 @@ Read [the changelog for the gem][gem-changelog] for the latest changes.
 
 [rvm]: https://www.ruby-lang.org/en/documentation/installation/#managers
 [bundler]: http://bundler.io/
+[tdt-documentation]: https://tdt-documentation.london.cloudapps.digital 
